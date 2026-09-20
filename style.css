@@ -129,7 +129,9 @@ body {
 .brand-icon {
   display: none !important;
 }
-
+.brand-div{
+   margin-left:100px;
+}
 .brand-title {
   align-items: center;
   font-size: 1.4rem;
